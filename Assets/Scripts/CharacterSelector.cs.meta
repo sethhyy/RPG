@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3933ba81abe079458ced903573bed18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nicknameInput: {instanceID: 0}
+  - previewDisplay: {instanceID: 0}
+  - statusDisplay: {instanceID: 0}
+  - boySprite: {fileID: -6416068367545091011, guid: e4cf68b28663a8544b1b3d75c767bcbb, type: 3}
+  - girlSprite: {fileID: 6417973203142015010, guid: cee155aebc404d146bcf3bc03fde2d15, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

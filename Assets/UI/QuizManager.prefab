@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1852467093862681968
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700743464627215427}
+  - component: {fileID: 5209168830943693191}
+  m_Layer: 0
+  m_Name: QuizManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7700743464627215427
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1852467093862681968}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5209168830943693191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1852467093862681968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69c5666ef3490414ba3aae7b451a283a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::QuizManager
+  questions:
+  - questionText: Saan ka ga tatuloy kung gusto mong magpahingalay?
+    choices:
+    - Sa bangko
+    - Sa silong
+    - Sa dapugan
+    - Sa kamalig
+    correctAnswerIndex: 1
+  - questionText: Ano ang gagawin mo bago kumain?
+    choices:
+    - Tumigil sa gawain
+    - Lumakad sa bukirin
+    - Maglaro sa labas
+    - Magbantay sa pasamano
+    correctAnswerIndex: 0
+  - questionText: ' Ano ang dapat gawin sa dapugan bago magluto?'
+    choices:
+    - Maglinis
+    - Magpahinga
+    - Tumigil
+    - Sumipot
+    correctAnswerIndex: 0
+  - questionText: Saan mo ilalagay ang pagkain pagkatapos maluto?
+    choices:
+    - Sa kamalig
+    - Sa dambana
+    - Sa hapag
+    - Sa bangko
+    correctAnswerIndex: 2
+  - questionText: Ano ang tamang gagawin kapag balisa ka?
+    choices:
+    - Magpahingalay
+    - Maglakad sa bukirin
+    - Magbantay sa silong
+    - Magluto sa dapugan
+    correctAnswerIndex: 2
+  quizPanel: {fileID: 0}
+  questionText: {fileID: 0}
+  answerButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  guidePanel: {fileID: 0}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904763766572",
+    "project_id": "tatakbatangeunorpg",
+    "storage_bucket": "tatakbatangeunorpg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904763766572:android:8904ad582ef0b20e829e89",
+        "android_client_info": {
+          "package_name": "com.RPG_Game.TatakBatanguenoRPG"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOQ_PPX_njl5JsHWdJrE3OSgaN3m_ConA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

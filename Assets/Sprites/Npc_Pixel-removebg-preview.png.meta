@@ -1,0 +1,1603 @@
+fileFormatVersion: 2
+guid: 2a15caf1a931c0144910244aa15a3573
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -417743610485938294
+    second: Npc_Pixel-removebg-preview_0
+  - first:
+      213: -2134021688690382269
+    second: Npc_Pixel-removebg-preview_1
+  - first:
+      213: 7528250186734958983
+    second: Npc_Pixel-removebg-preview_2
+  - first:
+      213: 5306071703443671225
+    second: Npc_Pixel-removebg-preview_3
+  - first:
+      213: -516181227213998413
+    second: Npc_Pixel-removebg-preview_4
+  - first:
+      213: 3428898880877836439
+    second: Npc_Pixel-removebg-preview_5
+  - first:
+      213: 483199879808929754
+    second: Npc_Pixel-removebg-preview_6
+  - first:
+      213: 3297123728044453499
+    second: Npc_Pixel-removebg-preview_7
+  - first:
+      213: -6702174236438546503
+    second: Npc_Pixel-removebg-preview_8
+  - first:
+      213: -3072609396121811390
+    second: Npc_Pixel-removebg-preview_9
+  - first:
+      213: 4651656787552973061
+    second: Npc_Pixel-removebg-preview_10
+  - first:
+      213: -6649472211130304950
+    second: Npc_Pixel-removebg-preview_11
+  - first:
+      213: 9061679673823611962
+    second: Npc_Pixel-removebg-preview_12
+  - first:
+      213: -8103657507180164212
+    second: Npc_Pixel-removebg-preview_13
+  - first:
+      213: 4735413526105244227
+    second: Npc_Pixel-removebg-preview_14
+  - first:
+      213: 1405194815112328500
+    second: Npc_Pixel-removebg-preview_15
+  - first:
+      213: 298383046036849865
+    second: Npc_Pixel-removebg-preview_16
+  - first:
+      213: -3260979322708641531
+    second: Npc_Pixel-removebg-preview_17
+  - first:
+      213: -3337823177365957320
+    second: Npc_Pixel-removebg-preview_18
+  - first:
+      213: -7558089530709593917
+    second: Npc_Pixel-removebg-preview_19
+  - first:
+      213: 8800214057810682105
+    second: Npc_Pixel-removebg-preview_20
+  - first:
+      213: 4433816700359276101
+    second: Npc_Pixel-removebg-preview_21
+  - first:
+      213: -4629330605780578485
+    second: Npc_Pixel-removebg-preview_22
+  - first:
+      213: 2727150616397585610
+    second: Npc_Pixel-removebg-preview_23
+  - first:
+      213: -1010647971296807355
+    second: Npc_Pixel-removebg-preview_24
+  - first:
+      213: 4525482608187798547
+    second: Npc_Pixel-removebg-preview_25
+  - first:
+      213: -423348539997997061
+    second: Npc_Pixel-removebg-preview_26
+  - first:
+      213: 2795643877502846656
+    second: Npc_Pixel-removebg-preview_27
+  - first:
+      213: 6550192305367340789
+    second: Npc_Pixel-removebg-preview_28
+  - first:
+      213: 8789042439986481387
+    second: Npc_Pixel-removebg-preview_29
+  - first:
+      213: 3034711817638006702
+    second: Npc_Pixel-removebg-preview_30
+  - first:
+      213: -2664246068988951672
+    second: Npc_Pixel-removebg-preview_31
+  - first:
+      213: 7146702132955858048
+    second: Npc_Pixel-removebg-preview_32
+  - first:
+      213: -6412164125633041487
+    second: Npc_Pixel-removebg-preview_33
+  - first:
+      213: -4149728686190957976
+    second: Npc_Pixel-removebg-preview_34
+  - first:
+      213: 2533777245702724828
+    second: Npc_Pixel-removebg-preview_35
+  - first:
+      213: -5836423255936467761
+    second: Npc_Pixel-removebg-preview_36
+  - first:
+      213: 8269193147936806514
+    second: Npc_Pixel-removebg-preview_37
+  - first:
+      213: 7532974301550665154
+    second: Npc_Pixel-removebg-preview_38
+  - first:
+      213: 2552819373156150013
+    second: Npc_Pixel-removebg-preview_39
+  - first:
+      213: 8508277607886848879
+    second: Npc_Pixel-removebg-preview_40
+  - first:
+      213: -1609392756920644139
+    second: Npc_Pixel-removebg-preview_41
+  - first:
+      213: -2727146555928490190
+    second: Npc_Pixel-removebg-preview_42
+  - first:
+      213: -9041302698759223191
+    second: Npc_Pixel-removebg-preview_43
+  - first:
+      213: -8650255056917802878
+    second: Npc_Pixel-removebg-preview_44
+  - first:
+      213: 5481964640627898393
+    second: Npc_Pixel-removebg-preview_45
+  - first:
+      213: -6123085870231212923
+    second: Npc_Pixel-removebg-preview_46
+  - first:
+      213: -3987872413219029147
+    second: Npc_Pixel-removebg-preview_47
+  - first:
+      213: -6407259607224532646
+    second: Npc_Pixel-removebg-preview_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87ebc94660e33af0800000000000000
+      internalID: -417743610485938294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 405
+        width: 78
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a61a6a49e6262e0800000000000000
+      internalID: -2134021688690382269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 480
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789fa9098a7b97860800000000000000
+      internalID: 7528250186734958983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 474
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8038cf914f2a940800000000000000
+      internalID: 5306071703443671225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 326
+        width: 69
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b63f20a8e726d8f0800000000000000
+      internalID: -516181227213998413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 477
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79835757d55e59f20800000000000000
+      internalID: 3428898880877836439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 402
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfc5870bbba4b600800000000000000
+      internalID: 483199879808929754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 481
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ee99ecf8cb1cd20800000000000000
+      internalID: 3297123728044453499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 475
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b73e46aa081df2a0800000000000000
+      internalID: -6702174236438546503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246c1aa9806eb55d0800000000000000
+      internalID: -3072609396121811390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 456
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5013127e3310e8040800000000000000
+      internalID: 4651656787552973061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 330
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a463fbf114458b3a0800000000000000
+      internalID: -6649472211130304950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 402
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c42aa07ad81cd70800000000000000
+      internalID: 9061679673823611962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 330
+        width: 68
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b4917ae660a8f80800000000000000
+      internalID: -8103657507180164212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3424510438197b140800000000000000
+      internalID: 4735413526105244227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 327
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435bdf24d31408310800000000000000
+      internalID: 1405194815112328500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 333
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4860aacc1142400800000000000000
+      internalID: 298383046036849865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 378
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509be0a559caeb2d0800000000000000
+      internalID: -3260979322708641531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 327
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8355906318bada1d0800000000000000
+      internalID: -3337823177365957320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0b475cd954c1790800000000000000
+      internalID: -7558089530709593917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 246
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0643f5f04a02a70800000000000000
+      internalID: 8800214057810682105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 324
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546fb103cc4188d30800000000000000
+      internalID: 4433816700359276101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fca9e575051cfb0800000000000000
+      internalID: -4629330605780578485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 252
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc9d5b5909c8d520800000000000000
+      internalID: 2727150616397585610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 240
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54672e5560579f1f0800000000000000
+      internalID: -1010647971296807355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 306
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314fd32847ebdce30800000000000000
+      internalID: 4525482608187798547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 252
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf73d31feb6ff1af0800000000000000
+      internalID: -423348539997997061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 248
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c68d0d6b4f1cc620800000000000000
+      internalID: 2795643877502846656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 252
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6dae38235f6ea50800000000000000
+      internalID: 6550192305367340789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 294
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be80a376883f8f970800000000000000
+      internalID: 8789042439986481387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf4efdc1567d1a20800000000000000
+      internalID: 3034711817638006702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 168
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883cea7e052b60bd0800000000000000
+      internalID: -2664246068988951672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 222
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0844c5e99bf2e2360800000000000000
+      internalID: 7146702132955858048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 164
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bba32a63ba6307a0800000000000000
+      internalID: -6412164125633041487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 156
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ae6510fb33966c0800000000000000
+      internalID: -4149728686190957976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 172
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc141efaf8c92320800000000000000
+      internalID: 2533777245702724828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 165
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccf31fa8fbd00fa0800000000000000
+      internalID: -5836423255936467761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 174
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2761ed12b5312c270800000000000000
+      internalID: 8269193147936806514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 216
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdd21247308a8860800000000000000
+      internalID: 7532974301550665154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 91
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa25b8c1bf6d6320800000000000000
+      internalID: 2552819373156150013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f638184d769731670800000000000000
+      internalID: 8508277607886848879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 162
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd88a380d94aa9e0800000000000000
+      internalID: -1609392756920644139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 78
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fc37b08aa372ad0800000000000000
+      internalID: -2727146555928490190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 90
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9680dad2917d68280800000000000000
+      internalID: -9041302698759223191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 90
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28053e35bde14f780800000000000000
+      internalID: -8650255056917802878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 84
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918b0e3cbc9d31c40800000000000000
+      internalID: 5481964640627898393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 84
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ca7afa7dd660ba0800000000000000
+      internalID: -6123085870231212923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fff783b2b38a8c0800000000000000
+      internalID: -3987872413219029147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a514ca79557d417a0800000000000000
+      internalID: -6407259607224532646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 90
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f91981270c97a049a6e87722d8c20f7
+      internalID: -1497607347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ed1d26cbc33140b0b7fc944c17aa1
+      internalID: -1023520792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b00816125bcd649a67326e72ed762e
+      internalID: 2114966056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eecefe06584ffe448bfb105be40a54b
+      internalID: 1065171502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3dda378ba3d984796988718ae71907
+      internalID: -1343389550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac95ad21de05de40918ceba9df30b42
+      internalID: -96080610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a235e838e31845488520ca3db6b99a2
+      internalID: 1847522311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc_Pixel-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6292b9d4d4abfb4eb7dc9f031a21f53
+      internalID: -701077587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cebabc6ba278f1a46a919cd25568ba10
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Npc_Pixel-removebg-preview_0: -417743610485938294
+      Npc_Pixel-removebg-preview_1: -2134021688690382269
+      Npc_Pixel-removebg-preview_10: 4651656787552973061
+      Npc_Pixel-removebg-preview_11: -6649472211130304950
+      Npc_Pixel-removebg-preview_12: 9061679673823611962
+      Npc_Pixel-removebg-preview_13: -8103657507180164212
+      Npc_Pixel-removebg-preview_14: 4735413526105244227
+      Npc_Pixel-removebg-preview_15: 1405194815112328500
+      Npc_Pixel-removebg-preview_16: 298383046036849865
+      Npc_Pixel-removebg-preview_17: -3260979322708641531
+      Npc_Pixel-removebg-preview_18: -3337823177365957320
+      Npc_Pixel-removebg-preview_19: -7558089530709593917
+      Npc_Pixel-removebg-preview_2: 7528250186734958983
+      Npc_Pixel-removebg-preview_20: 8800214057810682105
+      Npc_Pixel-removebg-preview_21: 4433816700359276101
+      Npc_Pixel-removebg-preview_22: -4629330605780578485
+      Npc_Pixel-removebg-preview_23: 2727150616397585610
+      Npc_Pixel-removebg-preview_24: -1010647971296807355
+      Npc_Pixel-removebg-preview_25: 4525482608187798547
+      Npc_Pixel-removebg-preview_26: -423348539997997061
+      Npc_Pixel-removebg-preview_27: 2795643877502846656
+      Npc_Pixel-removebg-preview_28: 6550192305367340789
+      Npc_Pixel-removebg-preview_29: 8789042439986481387
+      Npc_Pixel-removebg-preview_3: 5306071703443671225
+      Npc_Pixel-removebg-preview_30: 3034711817638006702
+      Npc_Pixel-removebg-preview_31: -2664246068988951672
+      Npc_Pixel-removebg-preview_32: 7146702132955858048
+      Npc_Pixel-removebg-preview_33: -6412164125633041487
+      Npc_Pixel-removebg-preview_34: -4149728686190957976
+      Npc_Pixel-removebg-preview_35: 2533777245702724828
+      Npc_Pixel-removebg-preview_36: -5836423255936467761
+      Npc_Pixel-removebg-preview_37: 8269193147936806514
+      Npc_Pixel-removebg-preview_38: 7532974301550665154
+      Npc_Pixel-removebg-preview_39: 2552819373156150013
+      Npc_Pixel-removebg-preview_4: -516181227213998413
+      Npc_Pixel-removebg-preview_40: 8508277607886848879
+      Npc_Pixel-removebg-preview_41: -1609392756920644139
+      Npc_Pixel-removebg-preview_42: -2727146555928490190
+      Npc_Pixel-removebg-preview_43: -9041302698759223191
+      Npc_Pixel-removebg-preview_44: -8650255056917802878
+      Npc_Pixel-removebg-preview_45: 5481964640627898393
+      Npc_Pixel-removebg-preview_46: -6123085870231212923
+      Npc_Pixel-removebg-preview_47: -3987872413219029147
+      Npc_Pixel-removebg-preview_48: -6407259607224532646
+      Npc_Pixel-removebg-preview_49: -1497607347
+      Npc_Pixel-removebg-preview_5: 3428898880877836439
+      Npc_Pixel-removebg-preview_50: -1023520792
+      Npc_Pixel-removebg-preview_51: 2114966056
+      Npc_Pixel-removebg-preview_52: 1065171502
+      Npc_Pixel-removebg-preview_53: -1343389550
+      Npc_Pixel-removebg-preview_54: -96080610
+      Npc_Pixel-removebg-preview_55: 1847522311
+      Npc_Pixel-removebg-preview_56: -701077587
+      Npc_Pixel-removebg-preview_6: 483199879808929754
+      Npc_Pixel-removebg-preview_7: 3297123728044453499
+      Npc_Pixel-removebg-preview_8: -6702174236438546503
+      Npc_Pixel-removebg-preview_9: -3072609396121811390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
